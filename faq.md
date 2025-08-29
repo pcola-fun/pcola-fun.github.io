@@ -5,12 +5,13 @@ permalink: /faq/
 ---
 
 # Nothing But Fun
+
 ## Frequently Asked Questions
+- <a href="/faq/who">Who are we and what do we do?</a>
+- <a href="/faq/dues">What are the annual dues, and why?</a>
+- <a href="/faq/trial">How does the trial work?</a>
+- <a href="/faq/glitch">It says I'm paying monthly ... why?</a>
+- <a href="/faq/meetup_plus">What is Meetup+?</a>
 
-Placeholder FAQ to ensure publishing works.
-
-- link
-- link
-
-Return to <a href="https://meetup.com/pcola-fun">Meetup</a>.
+Return to <a href="https://meetup.com/pcola-fun">Nothing But fun</a>.
 
