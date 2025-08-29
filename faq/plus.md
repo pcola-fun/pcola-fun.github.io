@@ -4,8 +4,6 @@ title: Meetup+
 permalink: /faq/meetup_plus
 ---
 
-# Nothing But Fun
-
 ## What is Meetup+?
 
 Meetup.com has a premium product called Meetup+ that offers you extra features while using their app or website. They're pretty sneaky in that they sell it to you at the time that you're signing up for meetup groups, so it looks like you're paying us.

@@ -4,8 +4,6 @@ title: Who Are We?
 permalink: /faq/who
 ---
 
-# Nothing But Fun
-
 ### Who are we, anyway?
 
 We’re a group of fun loving peeps who just want to be out and social, living life to the fullest in the Greater Pensacola area.

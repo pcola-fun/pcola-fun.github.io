@@ -4,8 +4,6 @@ title: Trial Month
 permalink: /faq/trial
 ---
 
-# Nothing But Fun
-
 ### How does the trial work?
 
 Since you're asking, that means you are probably thinking of joining, or have just joined as a trial member. Welcome!

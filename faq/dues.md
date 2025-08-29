@@ -4,8 +4,6 @@ title: Annual Dues
 permalink: /faq/dues
 ---
 
-# Nothing But Fun
-
 ### What are the annual dues, and why?
 
 **Nothing But Fun** charges $5/year for annual dues. (If you are being charged more than this, or more frequently than this, you have probably signed up for <a href="/faq/meetup_plus">Meetup+</a>, which has nothing to do with us.)

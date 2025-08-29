@@ -4,9 +4,7 @@ title: Frequently Asked Questions
 permalink: /faq/
 ---
 
-# Nothing But Fun
-
-## Frequently Asked Questions
+# Frequently Asked Questions
 - <a href="/faq/who">Who are we and what do we do?</a>
 - <a href="/faq/dues">What are the annual dues, and why?</a>
 - <a href="/faq/trial">How does the trial work?</a>

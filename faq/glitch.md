@@ -4,8 +4,6 @@ title: Monthly Dues Glitch
 permalink: /faq/glitch
 ---
 
-# Nothing But Fun
-
 ### It says I'm paying $5/month in dues!
 
 Ugh. This has truly been a frustrating one.
