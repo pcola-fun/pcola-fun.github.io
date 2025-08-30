@@ -4,11 +4,9 @@ title: Who Are We?
 permalink: /faq/who
 ---
 
-### Who are we, anyway?
+## Who are we, anyway?
 
-We’re a group of fun loving peeps who just want to be out and social, living life to the fullest in the Greater Pensacola area.
-
-Many of us are new to the area. Some are recently divorced or widowed or just wanting to refresh the friend pool.
+We’re a group of fun loving peeps who just want to be out and social, living life to the fullest in the Greater Pensacola area. Many of us are new to the area.
 
 ### What do we do?
 
@@ -26,4 +24,4 @@ The name meetup.com does sound like a dating site, doesn't it?  It's not. It's a
 
 This doesn't mean you can't date someone in the group; certainly we have couples here. It means don't come in here on the prowl. People don't want to be hit on at every turn. It makes people uncomfortable, which is the opposite of what we're about. (If this happens to you, report it to your event organizer right away.)
  
-<a href="/faq">FAQ</a> - <a href="/">Meetup</a>
+<a href="/faq">FAQ</a> - <a href="https://meetup.com/pcola-fun">Meetup</a>

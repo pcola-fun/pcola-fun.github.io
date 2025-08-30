@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Meetup+
-permalink: /faq/meetup_plus
+permalink: /faq/plus
 ---
 
 ## What is Meetup+?
@@ -18,5 +18,6 @@ While using parts of the app/website, you're going to get popups asking you to s
 
 You can read about Meetup+ in their own words <a href="https://www.meetup.com/blog/introducing-member-learn-about-meetups-premium-member-subscription/">here</a>
 
-<a href="/faq">FAQ</a> - <a href="/">Meetup</a>
+<a href="/faq">FAQ</a> - <a href="https://meetup.com/pcola-fun">Meetup</a>
+
 

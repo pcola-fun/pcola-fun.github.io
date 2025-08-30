@@ -4,11 +4,11 @@ title: Monthly Dues Glitch
 permalink: /faq/glitch
 ---
 
-### It says I'm paying $5/month in dues!
+## It says I'm paying $5/month in dues!
 
 Ugh. This has truly been a frustrating one.
 
-First, please make sure you're not seeing a charge for Meetup+.  More info is <a href="/faq/meetup_plus">here</a>.
+First, please make sure you're not seeing a charge for Meetup+.  More info is <a href="/faq/plus">here</a>.
 
 That said, if your profile page shows **$5/month** for member dues for **Nothing But Fun**, that means you're an old-timer! Thanks for being around with us for so long.
 
@@ -19,5 +19,6 @@ There was a glitch a long time ago, where members were charged the correct $5/ye
 There are a couple possible fixes that we can do manually. Please get in touch with Kyle, to see which one will work best for your account. 
 
 
-<a href="/faq">FAQ</a> - <a href="/">Meetup</a>
+<a href="/faq">FAQ</a> - <a href="https://meetup.com/pcola-fun">Meetup</a>
+
 
