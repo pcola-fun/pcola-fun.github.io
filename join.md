@@ -21,3 +21,5 @@ If you're new to Meetup, there's something important to know about the signup pr
 We want to make sure you're not confused by Meetup's upsell. Many new members have accidentally signed up for Meetup+ thinking it was part of our group. We recommend you **skip Meetup+** during signup and get to know us first!
 
 **We can't wait to see you at an event!**
+
+[**Join Nothing But Fun on Meetup**](https://meetup.com/pcola-fun)
