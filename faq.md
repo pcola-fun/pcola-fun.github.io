@@ -5,11 +5,19 @@ permalink: /faq/
 ---
 
 ## Frequently Asked Questions
-- <a href="/faq/who">Who are we and what do we do?</a>
-- <a href="/faq/dues">What are the annual dues, and why?</a>
-- <a href="/faq/trial">How does the trial work?</a>
-- <a href="/faq/glitch">It says I'm paying monthly ... why?</a>
-- <a href="/faq/plus">What is Meetup+?</a>
+
+*   [Who are we and what do we do?](/faq/who)
+*   [What are the annual dues, and why?](/faq/dues)
+*   [How does the trial work?](/faq/trial)
+*   [It says I'm paying monthly ... why?](/faq/glitch)
+*   [What is Meetup+?](/faq/plus)
+*   [Why do you need a deposit for {event}?](/payment)
+
+## Other important information:
+
+- [Event Participation & Liability Waiver](/risk)
+
+---
 
 Return to <a href="https://meetup.com/pcola-fun">Nothing But fun</a>.
 
