@@ -6,16 +6,12 @@ permalink: /faq/risk
 
 ## What are the annual dues, and why?
 
-**Nothing But Fun** charges $5/year for annual dues. (If you are being charged more than this, or more frequently than this, you have probably signed up for <a href="/faq/plus">Meetup+</a>, which has nothing to do with us.)
-
-There are two reasons we charge a minimal fee to be a member of the group:
-1) We find that it keeps out the creepers. Yes, sadly, there are creepers on meetup.
-2) Meetup.com charges us $300/year to use the site 
+**Nothing But Fun** charges $5/year for annual dues. (If you are being charged more than this, or more frequently than this, you have probably signed up for [Meetup+](/faq/plus), which has nothing to do with us.)
 
 ### How do we spend the money?
 
 First, we pay the costs of organizing:
-- We pay $300/year to Meetup
+- We pay $300/year to Meetup in order to have the group
 - We pay the fees associated with hosting this pcola.fun site
 - We occasionally buy recruiting materials, such as business cards
 
@@ -23,7 +19,9 @@ Everything left over at the end of the year goes back to the members in some way
 
 ### It says I'm paying $5/month!
 
-Some people have experienced a <a href="/faq/glitch">glitch</a> that causes their account to revert to month.  Kyle can help you fix it. More info <a href="/faq/glitch">here</a>.
+Some members that joined before we switched organizers have experienced a [glitch](/faq/glitch) that causes their account to revert to monthly. Kyle can help you fix it. More info [here](/faq/glitch).
 
-<a href="/faq">FAQ</a> - <a href="https://meetup.com/pcola-fun">Meetup</a>
+If you're paying $4.99 or $5.99 or any other amount that ends in .99, you're paying for [Meetup+](/faq/plus), which has nothing to do with our annual does.
+
+[FAQ](/faq) • [Meetup](https://meetup.com/pcola-fun)
 

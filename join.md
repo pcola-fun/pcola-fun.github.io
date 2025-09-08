@@ -16,7 +16,7 @@ If you're new to Meetup, there's something important to know about the signup pr
 
 - **Beware of "Meetup+"!** While signing up for a Meetup account, you'll likely see an offer for a premium service called "Meetup+". **This service has NOTHING to do with Nothing But Fun or your ability to attend our events.**
 - **You do NOT need Meetup+ to join us.** Please feel free to decline this offer. It won't impact your membership with our group.
-- **Our Dues:** The *only* cost associated with Nothing But Fun is a small **$5 annual membership fee**, which is only due *after* your free <a href="/faq/trial">one-month trial</a>.
+- **Our Dues:** The *only* cost associated with Nothing But Fun is a small **$5 annual membership fee**, which is only due *after* your free [one-month trial](/faq/trial).
 
 We want to make sure you're not confused by Meetup's upsell. Many new members have accidentally signed up for Meetup+ thinking it was part of our group. We recommend you **skip Meetup+** during signup and get to know us first!
 

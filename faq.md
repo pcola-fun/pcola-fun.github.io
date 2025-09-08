@@ -7,6 +7,7 @@ permalink: /faq/
 ## Frequently Asked Questions
 
 *   [Who are we and what do we do?](/faq/who)
+*   [Three Simple Rules](/faq/rules)
 *   [What are the annual dues, and why?](/faq/dues)
 *   [How does the trial work?](/faq/trial)
 *   [It says I'm paying monthly ... why?](/faq/glitch)
@@ -19,5 +20,5 @@ permalink: /faq/
 
 ---
 
-Return to <a href="https://meetup.com/pcola-fun">Nothing But fun</a>.
+Return to [Nothing But Fun(https://meetup.com/pcola-fun)
 
