@@ -16,10 +16,14 @@ We have fun!  We create regular events around food or drink or music.  We have r
 
 We have an important [rule](/faq/rules): Everyone in the group has the right to feel safe and comfortable at all times. Be kind. Don't bring drama. We have zero tolerance for things that make people want to leave the group. Violators will be shown the door swiftly.
 
-### I heard Meetup is a hookup site
+### Meetup is not a hookup site
 
 The name meetup.com does sound like a dating site, doesn't it?  It's not. It's a site for building communities.
 
 **Nothing But Fun** is certainly _not_ a hookup/singles group. And we are not your next dating pool. This doesn't mean you can't date someone in the group; certainly we have couples here. It means [don't come in here on the prowl](/faq/rules). People don't want to be hit on at every turn. It makes people uncomfortable, which is the opposite of what we're about. (If this happens to you, report it to your event organizer right away.)
- 
+
+### Join us! 
+
+We hope you'll join us. To do so, click the big button [here](/).
+
 [FAQ](/faq) • [Meetup](https://meetup.com/pcola-fun)

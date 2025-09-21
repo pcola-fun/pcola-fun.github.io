@@ -1,7 +1,7 @@
 ---
 layout: default
-title: At Your Own Risk
-permalink: /faq/risk
+title: Annual Dues
+permalink: /faq/dues
 ---
 
 ## What are the annual dues, and why?
