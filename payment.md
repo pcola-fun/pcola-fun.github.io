@@ -22,10 +22,10 @@ For certain events, we'll ask you to pay the organizer directly in advance. This
 
 ### **Event Deposits (for Reservable Spots)**
 
-For highly sought-after events, especially those requiring reservations like group dinners, we may ask for a small deposit.
+For highly sought-after events, especially those [requiring reservations](/reservation) like group dinners, we may ask for a small deposit.
 
 *   **Why a Deposit?** This helps us secure limited spots with restaurants and venues. Unfortunately, we've had members sign up but not attend, which can leave us looking bad and prevents others from enjoying the experience.
-*   **Getting Your Deposit Back:** When you attend the event, your deposit will be returned to you! If you're a no-show, the deposit will not be refunded.
+*   **Getting Your Deposit Back:** When you attend the event, your deposit will be returned to you! If you're a no-show, of if you cancel at the last minute, the deposit will not be refunded.
 
 ---
 
