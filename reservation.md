@@ -18,3 +18,6 @@ common occurrence. As a result, we have had to put the following in place:
 
 The event description will tell you which (if any) of these conditions apply to your event.  It is unfortunate that we have had to
 put this in place. We appreciate your understanding.
+
+
+[FAQ](/faq) • [Meetup](https://meetup.com/pcola-fun)

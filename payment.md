@@ -47,3 +47,5 @@ course, in addition to these payment processors, we also take cash.
 ---
 
 We appreciate your understanding and cooperation! These steps help us create amazing and seamless experiences for everyone in [Nothing But Fun](/)
+
+[FAQ](/faq) • [Meetup](https://meetup.com/pcola-fun)

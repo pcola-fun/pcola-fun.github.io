@@ -20,5 +20,5 @@ permalink: /faq/
 
 ---
 
-Return to [Nothing But Fun(https://meetup.com/pcola-fun)
+Return to [Nothing But Fun](https://meetup.com/pcola-fun)
 
